@@ -1,7 +1,7 @@
-## Projects : 
+## Projects
 
-- [vitest-cucumber](https://github.com/amiceli/vitest-cucumber), Gherkin is best of the best for tests !
-- [Preums](https://preums.miceli.click), a project to remind us that we can code without AI.
+- [vitest-cucumber](https://github.com/amiceli/vitest-cucumber) : Gherkin is best of the best for tests !
+- [Preums](https://preums.miceli.click) : a project to remind us that we can code without AI.
 
 ## Psst
 
